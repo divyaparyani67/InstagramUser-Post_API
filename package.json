@@ -1,0 +1,33 @@
+{
+  "name": "ms_instagram-stories_ursa_tep_online_part-time_2022_1",
+  "version": "1.0.0",
+  "description": "# Learning competencies:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Instagram-stories_Ursa_Tep_Online_Part-time_2022_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Instagram-stories_Ursa_Tep_Online_Part-time_2022_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Instagram-stories_Ursa_Tep_Online_Part-time_2022_1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.5.2"
+  }
+}
